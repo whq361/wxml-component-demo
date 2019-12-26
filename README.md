@@ -18,6 +18,9 @@ height | 要画多高 | 0 |
 borderRadius | 圆角 | 0 | 
 background| 颜色 | 0 | 
 
+### image（图片）
+borderRadius | 圆角 | 0 | 
+
 
 
 ## 使用
